@@ -32,15 +32,15 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Após a elaboração do trabalho escrito, a professora realizou um debate entre a turma para entender como foi realizada a pesquisa e escrita. Nessa conversa também foi levantado um ponto muito importante: como a IA impacta o trabalho do futuro. Nesse debate, como você se posiciona?",
+        enunciado: "Você acha que o ambiente afeta o bem-estar das pessoas?",
         alternativas: [
             {
-                texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
-                afirmacao: "Vem impulsionando a inovação na área de IA e luta para abrir novos caminhos profissionais com IA."
+                texto: "Sim. um lugar limpo pode ocasionar uma boa saúde.",
+                afirmacao: "A interação entre o meio ambiente e a saúde públima aborda aspectos que influenciam o bem-estar e inclui fatores físicos, químicos e biológicos."
             },
             {
-                texto: "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
-                afirmacao: "Sua preocupação com as pessoas motivou a criar um grupo de estudos entre trabalhadores para discutir meios de utilização de IA de forma ética."
+                texto: "Não, acho que o ambiente não afeta a saúde.",
+                afirmacao: "Alguns problemas como, poluição atmosférica, poluição das águas, queimas e desmatamentos podem afetar de diversas maneiras a saúde do ser humano."
             }
         ]
     },
