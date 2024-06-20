@@ -13,21 +13,21 @@ const perguntas = [
                 afirmacao: "A saúde ambiental é uma área de estudo que se preocupa com a avaliação e o controle dos impactos dos seres humanos sobre a natureza."
             },
             {
-                texto: "minha cidade não se importa cm a saúde ambiental.",
+                texto: "minha cidade não se importa com a saúde ambiental.",
                 afirmacao: "A maior parte dos munucípios brasileiros enfrenta grandes problemas ambientais."
             }
         ]
     },
     {
-        enunciado: "Com a descoberta desta tecnologia, chamada Inteligência Artificial, uma professora de tecnologia da escola decidiu fazer uma sequência de aulas sobre esta tecnologia. No fim de uma aula ela pede que você escreva um trabalho sobre o uso de IA em sala de aula. Qual atitude você toma?",
+        enunciado: "Você acha que a sua cidade pode ter de melhorias para evitar problemas ambientais futuros?",
         alternativas: [
             {
-                texto: "Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.",
-                afirmacao: "Conseguiu utilizar a IA para buscar informações úteis."
+                texto: "minha cidade não precisa de melhorias",
+                afirmacao: "Um ambiente saudável é vital para garantir uma vida saudável e promover o bem-estar de todos."
             },
             {
-                texto: "Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
-                afirmacao: "Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho."
+                texto: "minha cidade precisa de grandes melhorias com os cuidados ambientais",
+                afirmacao: "Entre eles, os principais estão em queimadas, desmatamento e o assoreamento de rios."
             }
         ]
     },
