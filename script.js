@@ -6,7 +6,7 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "O que você acha sobre a saúde ambiental na sua cidade?"
+        enunciado: "O que você acha sobre a saúde ambiental na sua cidade?",
         alternativas: [
             {
                 texto: "minha cidade se preocupa muito com as ambientação.",
