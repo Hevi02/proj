@@ -45,15 +45,15 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Ao final da discussão, você precisou criar uma imagem no computador que representasse o que pensa sobre IA. E agora?",
+        enunciado: "você faria trabalho voluntário para ajudar sua cidade?",
         alternativas: [
             {
-                texto: "Criar uma imagem utilizando uma plataforma de design como o Paint.",
-                afirmacao: "Notou também que muitas pessoas não sabem ainda utilizar as ferramentas tradicionais e decidiu compartilhar seus conhecimentos de design utilizando ferramentas de pintura digital para iniciantes."
+                texto: "Sim, eu gostaria de ajudar a minha cidade par ver resultados no meio ambiente.",
+                afirmacao: "A exposição a produos tóxicos pode levar a distúrbios de saúde crônicos e muitas vezes, irreversíveis, como problemas congênitos e doençãs associadas à desregulação endócrina."
             },
             {
-                texto: "Criar uma imagem utilizando um gerador de imagem de IA.",
-                afirmacao: "Acelerou o processo de criação de trabalhos utilizando geradores de imagem e agora consegue ensinar pessoas que sentem dificuldades em desenhar manualmente como utilizar também!"
+                texto: "Não. eu acho que isso deve vir de um orgão maior, e não preciso ajudar para isso.",
+                afirmacao: "Para piodermos ajudar nos problemas ambientais devemos fazer primeiramente o básico. reciclar e reutilizar, evuitar produtos descartáveis como copos descartáveis, canudos, etc."
             }
         ]
     },
