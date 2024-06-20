@@ -6,15 +6,15 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Assim que saiu da escola você se depara com uma nova tecnologia, um chat que consegue responder todas as dúvidas que uma pessoa pode ter, ele também gera imagens e áudios hiper-realistas. Qual o primeiro pensamento?",
+        enunciado: "O que você acha sobre a saúde ambiental na sua cidade?"
         alternativas: [
             {
-                texto: "Isso é assustador!",
-                afirmacao: "No início ficou com medo do que essa tecnologia pode fazer. "
+                texto: "minha cidade se preocupa muito com as ambientação.",
+                afirmacao: "A saúde ambiental é uma área de estudo que se preocupa com a avaliação e o controle dos impactos dos seres humanos sobre a natureza."
             },
             {
-                texto: "Isso é maravilhoso!",
-                afirmacao: "Quis saber como usar IA no seu dia a dia."
+                texto: "minha cidade não se importa cm a saúde ambiental.",
+                afirmacao: "A maior parte dos munucípios brasileiros enfrenta grandes problemas ambientais."
             }
         ]
     },
