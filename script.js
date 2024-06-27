@@ -62,11 +62,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Sim, nós separamos oa lixos e reutilizamos produtos que podem ser reciclados.",
-                afirmacao: "Ambientes mais saudáveis poderiam evitar grandes problemas de saúde e doenças."
+                afirmacao: "Um ambiente saudável e limpo é vital para garantir uma vida saudável e promover o bem-estar para todos."
             },
             {
                 texto: "Na minha casa não há reciclagens e não nos importamos com reutilização de objetos.",
-                afirmacao: "Um ambiente saudável e limpo é vital para garantir uma vida saudável e promover o bem-estar para todos. "
+                afirmacao: "Ambientes mais saudáveis poderiam evitar grandes problemas de saúde e doenças. "
             }
         ]
     },
