@@ -40,7 +40,7 @@ const perguntas = [
             },
             {
                 texto: "Não, acho que o ambiente não afeta a saúde.",
-                afirmacao: "Alguns problemas como, poluição atmosférica, poluição das águas, queimas e desmatamentos podem afetar de diversas maneiras a saúde do ser humano."
+                afirmacao: Um "Alguns problemas como, poluição atmosférica, poluição das águas, queimas e desmatamentos podem afetar de diversas maneiras a saúde do ser humano."
             }
         ]
     },
@@ -49,7 +49,7 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Sim, eu gostaria de ajudar a minha cidade para ver resultados no meio ambiente.",
-                afirmacao: "A exposição a produos tóxicos pode levar a distúrbios de saúde crônicos e muitas vezes, irreversíveis, como problemas congênitos e doençãs associadas à desregulação endócrina."
+                afirmacao: "A exposição a produtos tóxicos pode levar a distúrbios de saúde crônicos e muitas vezes, irreversíveis, como problemas congênitos e doençãs associadas à desregulação endócrina."
             },
             {
                 texto: "Não. eu acho que isso deve vir de um orgão maior, e não preciso ajudar para isso.",
