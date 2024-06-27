@@ -36,7 +36,7 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Sim. um lugar limpo pode ocasionar uma boa saúde.",
-                afirmacao: "A interação entre o meio ambiente e a saúde públima aborda aspectos que influenciam o bem-estar e inclui fatores físicos, químicos e biológicos."
+                afirmacao: "A interação entre o meio ambiente e a saúde pública aborda aspectos que influenciam o bem-estar e inclui fatores físicos, químicos e biológicos."
             },
             {
                 texto: "Não, acho que o ambiente não afeta a saúde.",
@@ -48,25 +48,25 @@ const perguntas = [
         enunciado: "você faria trabalho voluntário para ajudar sua cidade?",
         alternativas: [
             {
-                texto: "Sim, eu gostaria de ajudar a minha cidade par ver resultados no meio ambiente.",
+                texto: "Sim, eu gostaria de ajudar a minha cidade para ver resultados no meio ambiente.",
                 afirmacao: "A exposição a produos tóxicos pode levar a distúrbios de saúde crônicos e muitas vezes, irreversíveis, como problemas congênitos e doençãs associadas à desregulação endócrina."
             },
             {
                 texto: "Não. eu acho que isso deve vir de um orgão maior, e não preciso ajudar para isso.",
-                afirmacao: "Para piodermos ajudar nos problemas ambientais devemos fazer primeiramente o básico. reciclar e reutilizar, evuitar produtos descartáveis como copos descartáveis, canudos, etc."
+                afirmacao: "Para podermos ajudar nos problemas ambientais devemos fazer primeiramente o básico. reciclar e reutilizar, evitar produtos descartáveis como copos descartáveis, canudos, etc."
             }
         ]
     },
     {
-        enunciado: "",
+        enunciado: "Na sua residência há cuidados com a separação de produtos recicláveis?",
         alternativas: [
             {
-                texto: "Escrever comandos para o chat é uma forma de contribuir com o trabalho, por isso não é um problema utilizar o texto inteiro.",
-                afirmacao: "Infelizmente passou a utilizar a IA para fazer todas suas tarefas e agora se sente dependente da IA para tudo."
+                texto: "Sim, nós separamos oa lixos e reutilizamos produtos que podem ser reciclados.",
+                afirmacao: "Um ambiente saudável e limpo é vital para garantir uma vida saudável e promover o bem-estar para todos."
             },
             {
-                texto: "O chat pode ser uma tecnologia muito avançada, mas é preciso manter a atenção pois toda máquina erra, por isso revisar o trabalho e contribuir com as perspectivas pessoais é essencial.",
-                afirmacao: "Percebeu que toda IA reproduz orientações baseadas na empresa que programou e muito do que o chat escrevia não refletia o que pensava e por isso sabe que os textos gerados pela IA devem servir como auxílio e não resultado final. "
+                texto: "Na minha casa não há reciclagens e não nos importamos com reutilização de objetos.",
+                afirmacao: "Ambientes mais saudáveis poderiam evitar grandes problemas de saúde e doenças. "
             }
         ]
     },
