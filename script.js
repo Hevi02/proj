@@ -56,17 +56,17 @@ const perguntas = [
                 afirmacao: "Para podermos ajudar nos problemas ambientais devemos fazer primeiramente o básico. reciclar e reutilizar, evitar produtos descartáveis como copos descartáveis, canudos, etc."
             }
         ]
-    },
+    }
     {
         enunciado: "Na sua residência há cuidados com a separação de produtos recicláveis?",
         alternativas: [
             {
                 texto: "Sim, nós separamos oa lixos e reutilizamos produtos que podem ser reciclados.",
-                afirmacao: "Um ambiente saudável e limpo é vital para garantir uma vida saudável e promover o bem-estar para todos."
+                afirmacao: "Ambientes mais saudáveis poderiam evitar grandes problemas de saúde e doenças."
             },
             {
                 texto: "Na minha casa não há reciclagens e não nos importamos com reutilização de objetos.",
-                afirmacao: "Ambientes mais saudáveis poderiam evitar grandes problemas de saúde e doenças. "
+                afirmacao: "Um ambiente saudável e limpo é vital para garantir uma vida saudável e promover o bem-estar para todos "
             }
         ]
     },
