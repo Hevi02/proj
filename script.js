@@ -56,7 +56,7 @@ const perguntas = [
                 afirmacao: "Para podermos ajudar nos problemas ambientais devemos fazer primeiramente o básico. reciclar e reutilizar, evitar produtos descartáveis como copos descartáveis, canudos, etc."
             }
         ]
-    }
+    },
     {
         enunciado: "Na sua residência há cuidados com a separação de produtos recicláveis?",
         alternativas: [
