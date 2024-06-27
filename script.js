@@ -66,7 +66,7 @@ const perguntas = [
             },
             {
                 texto: "Na minha casa não há reciclagens e não nos importamos com reutilização de objetos.",
-                afirmacao: "Um ambiente saudável e limpo é vital para garantir uma vida saudável e promover o bem-estar para todos "
+                afirmacao: "Um ambiente saudável e limpo é vital para garantir uma vida saudável e promover o bem-estar para todos. "
             }
         ]
     },
