@@ -40,7 +40,7 @@ const perguntas = [
             },
             {
                 texto: "Não, acho que o ambiente não afeta a saúde.",
-                afirmacao: Um "Alguns problemas como, poluição atmosférica, poluição das águas, queimas e desmatamentos podem afetar de diversas maneiras a saúde do ser humano."
+                afirmacao:"Alguns problemas como, poluição atmosférica, poluição das águas, queimas e desmatamentos podem afetar de diversas maneiras a saúde do ser humano."
             }
         ]
     },
